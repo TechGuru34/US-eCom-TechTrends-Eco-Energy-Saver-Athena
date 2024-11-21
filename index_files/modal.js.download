@@ -1,0 +1,34 @@
+//legal page modals
+let legal_modal_elms = document.querySelectorAll("a[href^='/page/']");
+$(legal_modal_elms).on('click',function (event) {
+  event.preventDefault()
+  console.log('click')
+
+  this.blur(); // Manually remove focus from clicked link.
+  $.get(this.href, function (html) {
+    $(html).appendTo('body').modal({
+      showClose: false,
+      fadeDuration: 250,
+      fadeDelay: 0.50
+    });
+  });
+});
+
+$('body').on($.modal.OPEN, function (event, modal) {
+  let elements = $(".modal a[href^='/page/']")
+
+  $(elements).each(function (el) {
+    $(this).on("click", function (e) {
+
+      e.preventDefault()
+
+      $.get(this.href, function (html) {
+        $(html).appendTo('body').modal({
+          showClose: false,
+          fadeDuration: 0,
+          fadeDelay: 0.50
+        });
+      });
+    });
+  })
+});

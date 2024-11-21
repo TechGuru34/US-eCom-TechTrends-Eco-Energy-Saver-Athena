@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="content-type">
+	<meta charset="utf-8">
+	<title>EZ Power Saver</title>
+	<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+	<meta content="text/html; charset=utf-8" http-equiv="content-type">
+	<meta content="en-us" http-equiv="content-language">
+	<meta content="yes" name="apple-mobile-web-app-capable">
+	<meta content="black" name="apple-mobile-web-app-status-bar-style">
+	<meta content="true" name="HandheldFriendly">
+	<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+	<meta content="Powersaver" property="og:title">
+	<meta content="Powersaver" property="og:description">
+	<meta content="website" property="og:type">
+	<!-- <meta content="/poweroptimo/powersaver/hot-offers-hub/assets/css/checkout/pen_1.png" property="og:image"> -->
+	<meta content="1200" property="og:image:width">
+	<meta content="630" property="og:image:height">
+	<link href="assets/css/app.css" rel="stylesheet">
+	<link href="app/desktop/css/common.css" rel="stylesheet">
+	<style>
+		.btn-arrow-icon {
+			width: 250px !important;
+		}
+
+		#app_common_modal,
+		#error_handler_overlay {
+			overflow-x: unset !important
+		}
+
+		#app_common_modal_close,
+		#error_handler_overlay_close {
+			line-height: 26px;
+		}
+
+		@media screen and (max-device-width:991px) and (orientation :landscape) {
+			#app_common_modal .app_modal_body {
+				margin: 30px auto !important;
+				height: 80vh !important;
+				min-height: unset !important
+			}
+
+			#app_common_modal .app_modal_body iframe {
+				height: 72vh !important;
+				min-height: unset !important
+			}
+		}
+	</style>
+	<link href="app/desktop/images/favicon2.png" rel="shortcut icon" type="image/x-icon">
+	<meta charset="utf-8">
+	<meta content="Powersaver" name="description">
+	<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;700&amp;display=swap" rel='stylesheet'>
+	<link href="app/desktop/css/bootstrap.css" rel="stylesheet">
+	<link href="app/desktop/css/index_style6.css" rel="stylesheet">
+	<meta name="facebook-domain-verification" content="2t5ay4d9sv86emdd7kb7wxizmulktg" />
+</head>
+
+<body>
+	<div id="main">
+		<section class="notification-sec">
+			<div class="container">
+				<p>LIMITED TIME OFFER <span class="cb-total-discount-applied"></span> <span class="cb-discount-off"></span></p>
+			</div>
+		</section>
+		<section class="top-nav">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<div class="prod-container4">
+							<a href="javascript:void(0)"><img alt="Powersaver" class="img-responsive logo" src="app/desktop/images/ez.png"></a>
+						</div>
+					</div>
+					<div class="col-md-2 hidden-sm hidden-xs">
+						<div class="rate_image"></div>
+					</div>
+					<div class="col-md-3 hidden-sm hidden-xs">
+						<div class="cc_image credit-cards"></div>
+					</div>
+					<div class="col-md-4 hidden-sm hidden-xs">
+						<a href="https://conservativenewsdaily.org/on/powersaver/secure-checkout?total=5.95&qty=1&product=EZ Power Saver&tf=&x2=&"><span class="btn cta-btn btn-holder"><span class="btn-arrow-icon">Get EZ Power Saver FREE </span></span></a>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="sec1">
+			<div class="container">
+				<h1>Stop Wasting Money On Dirty, Unstable Electricity</h1>
+				<ul>
+					<li>Quickly and Easily Stabilize Your Homes Electrical Current</li>
+					<li>Reduce Harmful Dirty Electricity From Your Home</li>
+					<li>Protect and Prolong the Life of Your Appliances & Electronics</li>
+				</ul><a href="javascript:scrollToPackages()">
+					<div class="prod-container hidden-sm hidden-xs"><img alt="" class="img-responsive visible-sm visible-xs spacer-2 sec1-mw-product" src="app/desktop/images/index/1st-mobile.png"></div>
+				</a> <a href="https://conservativenewsdaily.org/on/powersaver/secure-checkout?total=5.95&qty=1&product=EZ Power Saver&tf=&x2=&"><span class="btn cta-btn spacer-1 hidden-sm hidden-xs"><span class="btn-arrow-icon">Get
+							EZ Power Saver FREE </span></span></a>
+				<a href="https://conservativenewsdaily.org/on/powersaver/secure-checkout-paypal?pyplcheckout=1&total=5.95&qty=1&product=EZ Power Saver&tf=&x2=&"><span class="btn cta-btn spacer-1 hidden-sm hidden-xs" style="margin-left: 45px; background: #ffc521; padding-top: 6px; padding-bottom: 6px;"><img src="https://d1eyz2a6ch1vhl.cloudfront.net/powersaver/paypal/pyplbnt.png" style="width: 100%; max-width:250px;"></span></a>
+				<center>
+					<div class="prod-container hidden-md hidden-lg"><img alt="" class="img-responsive spacer-2 sec1-mw-product hidden-md hidden-lg" src="app/desktop/images/index/1st-mobile.png"></div>
+					<br class="hidden-lg hidden-md">
+					<br class="hidden-lg hidden-md">
+					<br class="hidden-lg hidden-md">
+					<a href="https://conservativenewsdaily.org/on/powersaver/secure-checkout?total=5.95&qty=1&product=EZ Power Saver&tf=&x2=&"><span class="hidden-md hidden-lg btn cta-btn spacer-1"><span class="btn-arrow-icon">Get
+								EZ Power Saver FREE </span></span></a>
+					<a href="https://conservativenewsdaily.org/on/powersaver/secure-checkout-paypal?pyplcheckout=1&total=5.95&qty=1&product=EZ Power Saver&tf=&x2=&"><span class="btn cta-btn spacer-1 hidden-md hidden-lg" style="background: #ffc521; padding-top: 6px; padding-bottom: 6px;"><img src="https://d1eyz2a6ch1vhl.cloudfront.net/powersaver/paypal/pyplbnt.png" style="width: 100%; max-width:250px;"></span></a>
+				</center>
+				<div class="p-holder hidden-sm hidden-xs">
+					<a href="javascript:scrollToPackages()">
+						<div class="prod-image-top sec1-mw-product"></div>
+					</a>
+				</div>
+				<p class="review-box hidden-xs">"If you’re skeptical, I feel sorry for you. <span class="rb-h">EZ Power
+						Saver has really made something special here.</span> I'm not
+					entirely sure how it works, but the savings are REAL!"<br>
+					<br>
+					<span class="rb-profile">Tracy Wolfson, Orlando, FL</span>
+				</p>
+				<div class="guaranteed-box hidden-xs">
+					<img alt="100% 60 Days Money Back Guaranteed" class="money-back-icon" src="app/desktop/images/index/90-days.png">
+					<div class="gb1">
+						<p class="gb-heading">No-Hassle Returns</p>
+						<p class="gb-p">If you are not satisfied with your EZ Power Saver , you can return it
+							within 60 days of delivery for a full refund.</p>
+					</div>
+					<div class="gb1">
+						<p class="gb-heading">Quick & Convenient</p>
+						<p class="gb-p">Get EZ Power Saver delivered to your home. It’s simple to use and sets
+							up in minutes!</p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="division1">
+			<div class="container">
+				<div class="prod-container3"><img alt=".." class="lazy img-responsive center-block hidden-xs" src="app/desktop/images/index/featured-logos.png"> <img alt="..." class="lazy img-responsive center-block visible-xs" src="app/desktop/images/index/featured-logos-sml.png"></div>
+			</div>
+		</section>
+		<section class="sec2">
+			<div class="container">
+				<div class="row">
+					<div class="hidden-lg hidden-md prod-containerformob col-lg-12">
+						<center>
+							<div class="prod-container2">
+								<video controls="" height="100%" id="mb-player2" style="outline: none;" width="100%">
+									<source src="./powersaver_video.mp4" type="video/mp4">
+								</video>
+							</div>
+						</center>
+					</div>
+				</div>
+				<div class="row d-flex align-items-center">
+					<div class="col-lg-6 hidden-xs hidden-sm">
+						<div class="prod-container2">
+							<video controls="" height="100%" id="mb-player1" style="outline: none;" width="100%"></video>
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="meet-mw-box" style="max-width: 100%;">
+							<p class="heading-top-txt">Meet EZ Power Saver </p>
+							<h2 class="heading-main-txt">Stabilize Your Current, Remove Dirty Electricity, Slash Your
+								Power Bill Today!</h2>
+							<p class="details spacer-1">EZ Power Saver patent-pending technology provides your
+								home with a smooth, stable electrical current that leads to an increase in efficiency,
+								reduction in dirty electricity, less waste power, and dramatically lower energy
+								consumption.</p>
+							<a href="https://conservativenewsdaily.org/on/powersaver/secure-checkout?total=5.95&qty=1&product=EZ Power Saver&tf=&x2=&"><span class="btn cta-btn spacer-1"><span class="btn-arrow-icon">Get EZ Power Saver FREE </span></span></a><span class="hidden-sm hidden-xs" style="margin-right: 45px;"></span>
+							<a href="https://conservativenewsdaily.org/on/powersaver/secure-checkout-paypal?pyplcheckout=1&total=5.95&qty=1&product=EZ Power Saver&tf=&x2=&"><span class="btn cta-btn spacer-1" style="background: #ffc521; padding-top: 6px; padding-bottom: 6px;"><img src="https://d1eyz2a6ch1vhl.cloudfront.net/powersaver/paypal/pyplbnt.png" style="width: 100%; max-width:250px;"></span></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="sec3 bg_added">
+			<div class="container">
+				<p class="heading-top-txt">Whole-Home Electricity Stabilization</p>
+				<h2 class="heading-main-txt">Benefits of EZ Power Saver </h2>
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="featured-box1">
+							<p class="sec3-icon1 bg_added">Quickly and Easily Stabilize Your Homes Electrical Current
+							</p>
+							<p class="sec3-icon2 bg_added">Clean Power Lines and Reduce Electric Temperature</p>
+							<p class="sec3-icon3 bg_added">Reduce Harmful Dirty Electricity From Your Home</p>
+							<p class="sec3-icon4 bg_added">On-The-Spot Reactive Power Compensation</p>
+						</div>
+					</div>
+					<div class="col-sm-4"></div>
+					<div class="col-sm-4">
+						<div class="featured-box2">
+							<p class="sec3-icon5 bg_added">Absorption of Harmonic Waves + Buffer Electric Current Shock
+							</p>
+							<p class="sec3-icon6 bg_added">Easy to Install, No Maintenance Required</p>
+							<p class="sec3-icon7 bg_added">Safe, Reliable and Works in Any Home</p>
+							<p class="sec3-icon8 bg_added">Protect and Prolong the Life of Your Appliances & Electronics
+							</p>
+						</div>
+					</div>
+				</div><a href="https://conservativenewsdaily.org/on/powersaver/secure-checkout?total=5.95&qty=1&product=EZ Power Saver&tf=&x2=&"><span class="btn cta-btn spacer-1"><span class="btn-arrow-icon">Get
+							EZ Power Saver FREE </span></span></a>
+				<span class="hidden-sm hidden-xs" style="margin-right: 45px;"></span>
+				<a href="https://conservativenewsdaily.org/on/powersaver/secure-checkout-paypal?pyplcheckout=1&total=5.95&qty=1&product=EZ Power Saver&tf=&x2=&"><span class="btn cta-btn spacer-1" style="background: #ffc521; padding-top: 6px; padding-bottom: 6px;"><img src="https://d1eyz2a6ch1vhl.cloudfront.net/powersaver/paypal/pyplbnt.png" style="width: 100%; max-width:250px;"></span></a>
+			</div>
+		</section>
+		<section class="sec4">
+			<div class="container">
+				<!-- slider -->
+				<div class="slider noSliderSec">
+					<div>
+						<div class="img_box"><img alt="images" src="app/desktop/images/index/4th.jpg"></div>
+					</div>
+					<div>
+						<div class="img_box"><img alt="images" src="app/desktop/images/index/5th.jpg"></div>
+					</div>
+					<div>
+						<div class="img_box"><img alt="images" src="app/desktop/images/index/6th.jpg"></div>
+					</div>
+				</div><!-- end slider -->
+				<h2 class="heading-main-txt">How It Works</h2>
+				<div class="how-it-works-box">
+					<div class="row">
+						<div class="col-sm-4">
+							<div class="hw-box">
+								<h3><span class="stabilizes-the-power bg_added">Stabilizes the Power</span></h3>
+								<p>With groundbreaking Electricity Stabilizing Technology (E.S.T.), EZ Power Saver
+									is able to straighten the unstable electric current and provide a
+									constant, smooth output. This improves the flow of power throughout the home and
+									leads to a more efficient system.</p>
+							</div>
+						</div>
+						<div class="col-sm-4">
+							<div class="hw-box sec4-mid-border">
+								<h3><span class="eliminates-shocks bg_added">Eliminates Harmful Shocks & Surges</span>
+								</h3>
+								<p>Using advanced capacitors, EZ Power Saver is able to eliminate the harmful
+									spikes of electricity and prevent damage to appliances and electronics.</p>
+							</div>
+						</div>
+						<div class="col-sm-4">
+							<div class="hw-box">
+								<h3><span class="reduces-dirty-emf bg_added">Reduces Dirty EMF Electricity</span></h3>
+								<p>The patent-pending magnetic filter removes carbon from the electrical circuit helping
+									to significantly reduce your exposure to harmful electromagnetic radiation (EMF/EMR)
+									generated by your electronics, appliances, and dirty electrical system.</p>
+							</div>
+						</div>
+					</div>
+				</div><a href="https://conservativenewsdaily.org/on/powersaver/secure-checkout?total=5.95&qty=1&product=EZ Power Saver&tf=&x2=&"><span class="btn cta-btn spacer-1"><span class="btn-arrow-icon">Get
+							EZ Power Saver FREE </span></span></a>
+				<span class="hidden-sm hidden-xs" style="margin-right: 45px;"></span>
+				<a href="https://conservativenewsdaily.org/on/powersaver/secure-checkout-paypal?pyplcheckout=1&total=5.95&qty=1&product=EZ Power Saver&tf=&x2=&"><span class="btn cta-btn spacer-1" style="background: #ffc521; padding-top: 6px; padding-bottom: 6px;"><img src="https://d1eyz2a6ch1vhl.cloudfront.net/powersaver/paypal/pyplbnt.png" style="width: 100%; max-width:250px;"></span></a>
+			</div>
+		</section>
+		<section class="sec5">
+			<div class="container">
+				<p class="heading-top-txt">GET STARTED IN 3 EASY STEPS</p>
+				<h2 class="heading-main-txt">Using EZ Power Saver is Quick/Simple and Easy</h2>
+				<p class="heading-sub-txt spacer-1">Stabilizing Your Electricity is as Simple As 1 2 3…</p>
+				<div class="row">
+					<div class="col-lg-4 mw-step1">
+						<div class="step-container"><img alt="Stabilizing your electricity Step 1" class="lazy img-responsive center-block" src="app/desktop/images/index/8th.jpg"></div>
+						<h3 class="plugin-box">PLUG-IN YOUR DEVICE</h3>
+						<p class="sec5-details">For one device, find a location as close as possible to your breaker
+							box. For multiple devices, install each unit on a separate breaker. Separate floors or
+							opposite ends of the home will work best.</p>
+					</div>
+					<div class="col-lg-4 mw-step2">
+						<div class="step-container"><img alt="Stabilizing your electricity Step 2" class="lazy img-responsive center-block" src="app/desktop/images/index/9th.jpg"></div>
+						<h3>MAKE SURE YOUR DEVICE IS WORKING</h3>
+						<p class="sec5-details">The green light will illuminate when the device is plugged into an
+							active outlet and begins to filter and stabilize the electrical current.</p>
+					</div>
+					<div class="col-lg-4 mw-step3">
+						<div class="step-container"><img alt="Stabilizing your electricity Step 3" class="lazy img-responsive center-block" src="app/desktop/images/index/10th.jpg"></div>
+						<h3>FILTER, STABILIZE AND SAVE</h3>
+						<p class="sec5-details">The average home takes 2-3 weeks to stabilize the current and filter the
+							EMF dirty electricity. Therefore, please allow up to 6-8 weeks to start seeing the benefits
+							and results.</p>
+					</div>
+				</div><a href="https://conservativenewsdaily.org/on/powersaver/secure-checkout?total=5.95&qty=1&product=EZ Power Saver&tf=&x2=&"><span class="btn cta-btn spacer-1"><span class="btn-arrow-icon">Get
+							EZ Power Saver FREE </span></span></a>
+				<span class="hidden-sm hidden-xs" style="margin-right: 45px;"></span>
+				<a href="https://conservativenewsdaily.org/on/powersaver/secure-checkout-paypal?pyplcheckout=1&total=5.95&qty=1&product=EZ Power Saver&tf=&x2=&"><span class="btn cta-btn spacer-1" style="background: #ffc521; padding-top: 6px; padding-bottom: 6px;"><img src="https://d1eyz2a6ch1vhl.cloudfront.net/powersaver/paypal/pyplbnt.png" style="width: 100%; max-width:250px;"></span></a>
+			</div>
+		</section>
+		<section class="sec6 bg_added">
+			<div class="container">
+				<p class="heading-top-txt">Customer reviews</p>
+				<h2 class="heading-main-txt sec6-heading">Read what our customers have to say about EZ Power Saver
+				</h2>
+				<div class="row hidden-xs">
+					<div class="col-sm-6 review-box-holder mw-rev1">
+						<img alt="Kevin Holmes" class="lazy review-pic" height="88" src="app/desktop/images/index/kevin-pic.png" width="88">
+						<div class="review-details-box">
+							<p class="review-title">We'll be customers for life</p>
+							<p class="review-testi">"I’m so surprised by the amount we saved with these
+								<strong>EZ Power Saver devices… literally, you just plug them in and that’s it!
+									My wife was shocked when we got our first bill and we saved $35!</strong> And it’s
+								only gotten better from there… We’ll be customers for life."
+							</p>
+							<p class="review-profile">Kevin Holmes, St. Louis, MO</p><img alt="Rated 5 Stars" class="lazy review-stars" height="15" src="app/desktop/images/index/5-stars.png" width="84">
+						</div>
+					</div>
+					<div class="col-sm-6 review-box-holder mw-rev2">
+						<img alt="Melisa Houston" class="lazy review-pic" height="88" src="app/desktop/images/index/melisa-pic.png" width="88">
+						<div class="review-details-box">
+							<p class="review-title">We made our money back in 4 months</p>
+							<p class="review-testi">“I don’t usually write reviews, but I have to share some numbers
+								with you all… <strong>In the first month, we saved $33. The second month, $45. The third
+									month, $52. Fourth month, $55.</strong> If that isn’t a strong testimonial, I’m not
+								sure what is!”</p>
+							<p class="review-profile">Melisa Houston, Syracuse, NY</p><img alt="Rated 5 Stars" class="lazy review-stars" height="15" src="app/desktop/images/index/5-stars.png" width="84">
+						</div>
+					</div>
+				</div>
+				<div class="row hidden-xs">
+					<div class="col-sm-6 review-box-holder mw-rev3">
+						<img alt="Tracy Wolfson" class="lazy review-pic" height="88" src="app/desktop/images/index/tracy-pic.png" width="88">
+						<div class="review-details-box">
+							<p class="review-title">I'm not sure how it works, but the savings are real</p>
+							<p class="review-testi">“If you’re skeptical, I feel sorry for you. <strong>EZ Power Saver
+									has really made something special here.</strong> I’m not entirely sure
+								how it works, but the savings are REAL!”</p>
+							<p class="review-profile">Tracy Wolfson, Orlando, FL</p><img alt="Rated 5 Stars" class="lazy review-stars" height="15" src="app/desktop/images/index/5-stars.png" width="84">
+						</div>
+					</div>
+					<div class="col-sm-6 review-box-holder mw-rev4">
+						<img alt="Wilma Besley" class="lazy review-pic" height="88" src="app/desktop/images/index/wilma-pic.png" width="88">
+						<div class="review-details-box">
+							<p class="review-title">Not many things in life are a no-brainer...EZ Power Saver is
+								one of them</p>
+							<p class="review-testi">“Alright so I ended up buying 3 of these. Put one in my kitchen, one
+								in the bedroom, and one in our living room. After six months, I can confidently say that
+								we’re easily saving at least $50 per month. <strong>EZ Power Saver is a no
+									brainer. You want to save money each month? Buy a few of these and you’re all
+									set.</strong></p>
+							<p class="review-profile">Wilma Besley, Orlando, FL</p><img alt="Rated 5 Stars" class="lazy review-stars" height="15" src="app/desktop/images/index/5-stars.png" width="84">
+						</div>
+					</div>
+				</div><!-- carousel 4 Mobile Review-->
+				<div class="container visible-xs">
+					<!-- slider -->
+					<div class="slider review">
+						<div>
+							<div class="review_box"><img alt="Kevin Holmes" class="testi-img" src="app/desktop/images/index/kevin-pic.png">
+								<p class="review-title">We'll be customers for life</p>
+								<p class="review-testi">"I’m so surprised by the amount we saved with these
+									<strong>EZ Power Saver devices… literally, you just plug them in and that’s
+										it! My wife was shocked when we got our first bill and we saved $35!</strong>
+									And it’s only gotten better from there… We’ll be customers for life."
+								</p>
+								<p class="review-profile">Kevin Holmes, St. Louis, MO</p><img alt="Rated 5 Stars" class="review-stars" src="app/desktop/images/index/5-stars.png">
+							</div>
+						</div>
+						<div>
+							<div class="review_box"><img alt="Kevin Holmes" class="testi-img" src="app/desktop/images/index/melisa-pic.png">
+								<p class="review-title">We made our money back in 4 months</p>
+								<p class="review-testi">“I don’t usually write reviews, but I have to share some numbers
+									with you all… <strong>In the first month, we saved $33. The second month, $45. The
+										third month, $52. Fourth month, $55.</strong> If that isn’t a strong
+									testimonial, I’m not sure what is!”</p>
+								<p class="review-profile">Melisa Houston, Syracuse, NY</p><img alt="Rated 5 Stars" class="review-stars" src="app/desktop/images/index/5-stars.png">
+							</div>
+						</div>
+						<div>
+							<div class="review_box"><img alt="Kevin Holmes" class="testi-img" src="app/desktop/images/index/tracy-pic.png">
+								<p class="review-title">I'm not sure how it works, but the savings are real</p>
+								<p class="review-testi">“If you’re skeptical, I feel sorry for you. <strong>EZ Power
+										Saver
+										has really made something special here.</strong> I’m not entirely
+									sure how it works, but the savings are REAL!”</p>
+								<p class="review-profile">Tracy Wolfson, Orlando, FL</p><img alt="Rated 5 Stars" class="review-stars" src="app/desktop/images/index/5-stars.png">
+							</div>
+						</div>
+						<div>
+							<div class="review_box"><img alt="Kevin Holmes" class="testi-img" src="app/desktop/images/index/wilma-pic.png">
+								<p class="review-title">Not many things in life are a no-brainer...EZ Power Saver
+									is one of them</p>
+								<p class="review-testi">“Alright so I ended up buying 3 of these. Put one in my kitchen,
+									one in the bedroom, and one in our living room. After six months, I can confidently
+									say that we’re easily saving at least $50 per month. <strong>EZ Power Saver
+										is a no brainer. You want to save money each month? Buy a few of these and
+										you’re all set.</strong></p>
+								<p class="review-profile">Wilma Besley, Orlando, FL</p><img alt="Rated 5 Stars" class="review-stars" src="app/desktop/images/index/5-stars.png">
+							</div>
+						</div>
+					</div><!-- end slider -->
+				</div><!-- end carousel 4 Mobile Review-->
+			</div>
+			<br>
+			<a href="https://conservativenewsdaily.org/on/powersaver/secure-checkout?total=5.95&qty=1&product=EZ Power Saver&tf=&x2=&"><span class="btn cta-btn spacer-1"><span class="btn-arrow-icon">Get
+						EZ Power Saver FREE </span></span></a>
+			<span class="hidden-sm hidden-xs" style="margin-right: 45px;"></span>
+			<a href="https://conservativenewsdaily.org/on/powersaver/secure-checkout-paypal?pyplcheckout=1&total=5.95&qty=1&product=EZ Power Saver&tf=&x2=&"><span class="btn cta-btn spacer-1" style="background: #ffc521; padding-top: 6px; padding-bottom: 6px;"><img src="https://d1eyz2a6ch1vhl.cloudfront.net/powersaver/paypal/pyplbnt.png" style="width: 100%; max-width:250px;"></span></a>
+		</section>
+	</div>
+	<footer>
+		<div class="container">
+			<div class="disclaimer_text">
+				<p>Disclaimer: The manufacturer may modify the product name or packaging for marketing purposes, but the
+					quality and specifications of the product will remain consistent and unchanged. By purchasing this
+					product, the customer acknowledges and agrees to this potential change in product presentation.</p>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<a href="javascript:scrollToPackages()"><img alt="EZ Power Saver " class="lazy img-responsive footer-logo" src="app/desktop/images/ez2.png"></a>
+				</div>
+				<div class="col-md-4 v-middle">
+					<a href="javascript:void(0);" onclick="javascript:openNewWindow('page-terms.html', 'modal');">Terms
+						& Conditions</a> | <a href="javascript:void(0);" onclick="javascript:openNewWindow('page-privacy.html', 'modal');">Privacy Policy</a> | <a href="javascript:void(0);" onclick="javascript:openNewWindow('page-contact.html', 'modal');">Contact Us</a>
+				</div>
+				<div class="col-md-4 mw-copyright v-middle">
+					© 2023 EZ Power Saver.
+				</div>
+			</div>
+		</div>
+	</footer><!-- Start of Discount POp up-->
+	<div id="leaveFade">
+		<div class="leavepop_all" id="leavePop1">
+			<div class="leaveX_all" id="leaveX1"><img src="app/desktop/images/index/xclose.png"></div>
+			<div class="innerStyling innerA_all" id="innerA1"><img alt="#" class="" src="app/desktop/images/index/bf_cm.png"></div>
+			<div class="innerStyling innerB_all" id="innerB1">
+				<p>Save an extra 10% OFF with this free coupon!</p>
+			</div>
+			<div class="innerStyling" id="innerD1">
+				Congratulations! This is a special promotion that only 5 lucky visitors get per week. You must use this
+				coupon within the next 5 minutes or it will be given away to another customer.
+			</div>
+			<div id="innerE1">
+				<span id="timeCount">5.00</span>
+			</div>
+			<div id="timeInit" style="display: none;"></div>
+			<div id="innerF1">
+				<div id="innerFa1">
+					MINUTES
+				</div>
+				<div id="innerFb1">
+					SECONDS
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="innerButton_all" id="innerButton1">
+				Activate My 10% OFF Coupon!
+			</div>
+		</div>
+		<div class="leavepop_all" id="leavePop2">
+			<div class="leaveX_all" id="leaveX2"><img src="app/desktop/images/index/xclose.png"></div>
+			<div class="innerStyling innerA_all" id="innerA2">
+				WAIT! Here is our BEST & FINAL OFFER!
+			</div>
+			<div class="innerStyling innerB_all" id="innerB2">
+				Save an <span style="text-decoration: underline; color: #c00;">EXTRA 5% OFF (15% OFF TOTAL)</span> with
+				this FREE COUPON!
+			</div>
+			<div class="innerButton_all" id="innerButton2">
+				Activate 15% OFF Coupon!
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		AJAX_PATH = "ajax.php/index.html";
+		app_config = {
+			"valid_class": "no-error",
+			"error_class": "has-error",
+			"loading_class": "loading",
+			"exit_popup_enabled": false,
+			"exit_popup_element_id": "exitpopup-overlay",
+			"exit_popup_page": "discount.php",
+			"current_step": 1,
+			"cbtoken": "b22225d7a3d22fb3328645d23ddcd9be",
+			"dev_mode": "N",
+			"show_validation_errors": "modal",
+			"allowed_tc": "8\"m0l0d0J050k050O0lv8sm\"l\"d4J454k454O4l480mvlsd\"J\"50k158O8l888m3l1dvJs5\"k\"50O1l089m0l3d4J45vks5\"O\"l082m8l8d8J858k85vOsl\"8[r0j0V0H0q0h0k0R0X|Niraj,V1H4q4h4k4R4X4N4r|jiVaH,q4h1k8R8X8N8r4j2V|Hiqah,k6R1X0N0r9j1V9H2q|hikaR,X4N1r8j8V8H8q8h8k|RiXaN]",
+			"allowed_country_codes": ["US"],
+			"countries": {
+				"US": {
+					"name": "United States",
+					"states": {
+						"AL": {
+							"name": "Alabama"
+						},
+						"AK": {
+							"name": "Alaska"
+						},
+						"AS": {
+							"name": "American Samoa"
+						},
+						"AZ": {
+							"name": "Arizona"
+						},
+						"AR": {
+							"name": "Arkansas"
+						},
+						"AE": {
+							"name": "Armed Forces Middle East"
+						},
+						"AA": {
+							"name": "Armed Forces Americas"
+						},
+						"AP": {
+							"name": "Armed Forces Pacific"
+						},
+						"CA": {
+							"name": "California"
+						},
+						"CO": {
+							"name": "Colorado"
+						},
+						"CT": {
+							"name": "Connecticut"
+						},
+						"DE": {
+							"name": "Delaware"
+						},
+						"DC": {
+							"name": "District of Columbia"
+						},
+						"FM": {
+							"name": "Federated States of Micronesia"
+						},
+						"FL": {
+							"name": "Florida"
+						},
+						"GA": {
+							"name": "Georgia"
+						},
+						"GU": {
+							"name": "Guam"
+						},
+						"HI": {
+							"name": "Hawaii"
+						},
+						"ID": {
+							"name": "Idaho"
+						},
+						"IL": {
+							"name": "Illinois"
+						},
+						"IN": {
+							"name": "Indiana"
+						},
+						"IA": {
+							"name": "Iowa"
+						},
+						"KS": {
+							"name": "Kansas"
+						},
+						"KY": {
+							"name": "Kentucky"
+						},
+						"LA": {
+							"name": "Louisiana"
+						},
+						"ME": {
+							"name": "Maine"
+						},
+						"MD": {
+							"name": "Maryland"
+						},
+						"MA": {
+							"name": "Massachusetts"
+						},
+						"MI": {
+							"name": "Michigan"
+						},
+						"MN": {
+							"name": "Minnesota"
+						},
+						"MS": {
+							"name": "Mississippi"
+						},
+						"MO": {
+							"name": "Missouri"
+						},
+						"MT": {
+							"name": "Montana"
+						},
+						"NE": {
+							"name": "Nebraska"
+						},
+						"NV": {
+							"name": "Nevada"
+						},
+						"NH": {
+							"name": "New Hampshire"
+						},
+						"NJ": {
+							"name": "New Jersey"
+						},
+						"NM": {
+							"name": "New Mexico"
+						},
+						"NY": {
+							"name": "New York"
+						},
+						"NC": {
+							"name": "North Carolina"
+						},
+						"ND": {
+							"name": "North Dakota"
+						},
+						"MP": {
+							"name": "Northern Mariana Islands"
+						},
+						"OH": {
+							"name": "Ohio"
+						},
+						"OK": {
+							"name": "Oklahoma"
+						},
+						"OR": {
+							"name": "Oregon"
+						},
+						"PA": {
+							"name": "Pennsylvania"
+						},
+						"PR": {
+							"name": "Puerto Rico"
+						},
+						"MH": {
+							"name": "Republic of Marshall Islands"
+						},
+						"RI": {
+							"name": "Rhode Island"
+						},
+						"SC": {
+							"name": "South Carolina"
+						},
+						"SD": {
+							"name": "South Dakota"
+						},
+						"TN": {
+							"name": "Tennessee"
+						},
+						"TX": {
+							"name": "Texas"
+						},
+						"UT": {
+							"name": "Utah"
+						},
+						"VT": {
+							"name": "Vermont"
+						},
+						"VI": {
+							"name": "Virgin Islands of the U.S."
+						},
+						"VA": {
+							"name": "Virginia"
+						},
+						"WA": {
+							"name": "Washington"
+						},
+						"WV": {
+							"name": "West Virginia"
+						},
+						"WI": {
+							"name": "Wisconsin"
+						},
+						"WY": {
+							"name": "Wyoming"
+						}
+					}
+				}
+			},
+			"country_lang_mapping": {
+				"US": {
+					"state": "State:",
+					"zip": "Zip Code:"
+				},
+				"GB": {
+					"state": "County:",
+					"zip": "Postal Code:"
+				},
+				"CA": {
+					"state": "Province:",
+					"zip": "Pin Code:"
+				},
+				"IN": {
+					"state": "State:",
+					"zip": "Pin:"
+				}
+			},
+			"device_is_mobile": false,
+			"pageType": "leadPage",
+			"enable_browser_back_button": false,
+			"disable_trialoffer_cardexp": false,
+			"enable_csrf_token": false
+		}
+	</script>
+	<script type="text/javascript">
+		app_lang = {
+			"error_messages": {
+				"zip_invalid": "Please enter a valid zip code!",
+				"email_invalid": "Please enter a valid email id!",
+				"cc_invalid": "Please enter a valid credit card number!",
+				"cvv_invalid": "Please enter a valid CVV code!",
+				"card_expired": "Card seems to have expired already!",
+				"card_expire_soon": "Your credit card is about to expire, please update your card information.",
+				"common_error": "Oops! Something went wrong! Can you please retry?",
+				"not_checked": "Please check the agreement box in order to proceed.",
+				"ca_zip_invalid": "Invalid Canada state code",
+				"xv_invalid_shipping": "Your shipping address could not be verified",
+				"xv_email": "Your email address could not be verified",
+				"xv_phone": "Your phone number could not be verified"
+			},
+			"exceptions": {
+				"config_error": "General config error",
+				"config_file_missing": "General config error",
+				"invalid_array": "Argument is not a valid array",
+				"empty_prospect_id": "Prospect ID is empty or invalid",
+				"curl_error": "Something went wrong with the request, Please try again.",
+				"generic_error": "Something went wrong with the request, Please try again."
+			}
+		};
+	</script>
+	<script>
+		var input_mask_data = {
+			"enable_masking": true,
+			"masking_device": ["desktop", "mobile"],
+			"credit_card_place_holder_active": true,
+			"credit_card_masking_placeholder": "cross",
+			"credit_card_masking": "",
+			"phone_number_masking": "(000) 000-0000",
+			"enable_credit_Card_masking": false
+		};
+	</script>
+	<script type="text/javascript">
+		var cbUtilConfig = {
+			"disable_non_english_char_input": false
+		};
+	</script>
+	<script src="assets/dist/codebase.min.js" type="text/javascript">
+	</script>
+	<!-- <script>
+		$(function() {
+			$.get("/poweroptimo/powersaver/hot-offers-hub/ajax.php/extensions/checktrafficnew/initialize");
+		});
+	</script> -->
+	<!-- <script type="text/javascript">
+		$(function() {
+
+			setTimeout(function() {
+				$.get("/poweroptimo/powersaver/hot-offers-hub/ajax.php/extensions/checktrafficnew/place", function(data) {
+					if (data == null) return;
+
+					if (typeof data == 'string') {
+						data = JSON.parse(data);
+					}
+
+					data.forEach(function(el) {
+
+						if (el.type == 'head') {
+							$('head').append(el.content);
+						}
+
+						if (el.type == 'top') {
+							$('body').prepend(el.content);
+						}
+
+						if (el.type == 'bottom') {
+							$('body').append(el.content);
+						}
+					});
+				});
+			}, 500);
+
+		});
+	</script> -->
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD6l0iNWB3QK8iiiK7_zmc7FXgMkbQr57Q">
+	</script>
+	<script>
+		var autocomplete_event_type = 'keyup';
+		var autopopulate_by = 'zip';
+		var disable_component_restriction = '';
+	</script>
+	<script src='extensions/GoogleAutoComplete/js/google-auto-complete.js'>
+	</script> <!-- End of Discount POp up-->
+
+	<script src="app/desktop/js/jquery-3.2.1.min.js">
+	</script>
+	<script src="app/desktop/js/slick.js">
+	</script>
+	<script src="app/desktop/js/slick_script.js">
+	</script>
+	<script src="app/desktop/js/lazyload.min.js">
+	</script>
+	<script>
+		$(document).ready(function() {
+			$("#flip").click(function() {
+				$("#faqs-container").slideToggle("slow");
+			});
+		});
+		new LazyLoad();
+
+		$(document).ready(function() {
+			setTimeout(function() {
+				$("#mb-player1").html('<source src="./powersaver_video.mp4" type="video/mp4">');
+			}, 5000);
+		});
+	</script>
+</body>
+
+</html>

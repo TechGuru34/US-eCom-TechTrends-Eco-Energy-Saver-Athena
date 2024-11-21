@@ -1,0 +1,211 @@
+@charset "UTF-8";
+.blocker {
+  z-index: 99999998;
+}
+@media screen and (max-width: 500px) {
+  .blocker {
+    padding: 0;
+  }
+}
+
+.legal-page-modal {
+  font-family: Helvetica, Arial, sans-serif;
+  max-width: 700px;
+  display: none;
+  vertical-align: middle;
+  z-index: 99999999;
+  box-sizing: border-box;
+  padding: 0;
+  width: 90%;
+  background: #fff;
+  border-radius: 0;
+  box-shadow: none;
+  text-align: initial;
+  position: relative;
+  max-height: 70%;
+}
+@media screen and (max-width: 500px) {
+  .legal-page-modal {
+    width: 100%;
+    max-height: 100%;
+    max-height: unset;
+    min-height: 100vh;
+    height: 100vh;
+  }
+}
+.legal-page-modal .close-icon {
+  top: 32px;
+  right: 32px;
+  transition: 0.3s transform;
+  z-index: 1;
+  position: absolute;
+  cursor: pointer;
+}
+.legal-page-modal .close-icon:hover {
+  transform: rotate(90deg);
+}
+@media screen and (max-width: 500px) {
+  .legal-page-modal .close-icon {
+    top: 14px;
+    right: 18px;
+  }
+}
+.legal-page-modal .legal-page-title--wrapper {
+  width: 100%;
+  position: absolute;
+  background-color: #ffffff;
+  top: 0;
+  left: 0;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 20px 0;
+  border-bottom: 1px solid #f2f2f2;
+}
+@media screen and (max-width: 500px) {
+  .legal-page-modal .legal-page-title--wrapper {
+    padding: 15px 0;
+  }
+}
+.legal-page-modal .legal-page-title--wrapper .legal-page-title {
+  margin: 0 auto !important;
+  font-weight: 800 !important;
+  width: unset !important;
+  font-size: 24px;
+  line-height: 48px;
+  color: #333;
+}
+@media screen and (max-width: 500px) {
+  .legal-page-modal .legal-page-title--wrapper .legal-page-title {
+    font-size: 18px;
+    line-height: 24px;
+    margin: 0 auto 0 15px;
+  }
+}
+.legal-page-modal .legal-page-content--wrapper {
+  max-height: calc(69vh - 139px) !important;
+  padding: 60px 24px 24px !important;
+  margin-top: 48px !important;
+  overflow: auto;
+}
+@media screen and (max-width: 500px) {
+  .legal-page-modal .legal-page-content--wrapper {
+    margin-top: 37px !important;
+    max-height: calc(100vh - 80px) !important;
+    padding: 25px 15px 15px !important;
+  }
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content h3 {
+  font-weight: 600 !important;
+  font-size: 24px !important;
+  line-height: 31px !important;
+  margin-top: 15px !important;
+  margin-bottom: 15px !important;
+  color: #333;
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content h3:first-child {
+  margin-top: 0px;
+}
+@media screen and (max-width: 500px) {
+  .legal-page-modal .legal-page-content--wrapper .legal-page-content h3 {
+    font-size: 16px !important;
+    line-height: 21px !important;
+    margin-top: 15px !important;
+    margin-bottom: 10px !important;
+  }
+  .legal-page-modal .legal-page-content--wrapper .legal-page-content h3:first-child {
+    margin-top: 0px !important;
+  }
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content h4 {
+  font-weight: 600 !important;
+  font-size: 18px !important;
+  line-height: 24px !important;
+  margin-top: 15px !important;
+  color: #333 !important;
+}
+@media screen and (max-width: 500px) {
+  .legal-page-modal .legal-page-content--wrapper .legal-page-content h4 {
+    font-size: 14px !important;
+    line-height: 16px !important;
+    margin-top: 5px !important;
+  }
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content p, .legal-page-modal .legal-page-content--wrapper .legal-page-content ul, .legal-page-modal .legal-page-content--wrapper .legal-page-content li, .legal-page-modal .legal-page-content--wrapper .legal-page-content a {
+  font-size: 16px !important;
+  line-height: 26px !important;
+  font-weight: 400 !important;
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content p:not(a), .legal-page-modal .legal-page-content--wrapper .legal-page-content ul:not(a), .legal-page-modal .legal-page-content--wrapper .legal-page-content li:not(a), .legal-page-modal .legal-page-content--wrapper .legal-page-content a:not(a) {
+  color: #333 !important;
+}
+@media screen and (max-width: 500px) {
+  .legal-page-modal .legal-page-content--wrapper .legal-page-content p, .legal-page-modal .legal-page-content--wrapper .legal-page-content ul, .legal-page-modal .legal-page-content--wrapper .legal-page-content li, .legal-page-modal .legal-page-content--wrapper .legal-page-content a {
+    font-size: 12px !important;
+    line-height: 19px !important;
+  }
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content a {
+  color: #3154C8;
+  transition: 0.3s color;
+  font-weight: bold;
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content a:hover {
+  color: #3154C8;
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content p, .legal-page-modal .legal-page-content--wrapper .legal-page-content ul, .legal-page-modal .legal-page-content--wrapper .legal-page-content ol {
+  margin-bottom: 15px !important;
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content p li, .legal-page-modal .legal-page-content--wrapper .legal-page-content ul li, .legal-page-modal .legal-page-content--wrapper .legal-page-content ol li {
+  margin-bottom: 7px !important;
+}
+@media screen and (max-width: 500px) {
+  .legal-page-modal .legal-page-content--wrapper .legal-page-content p, .legal-page-modal .legal-page-content--wrapper .legal-page-content ul, .legal-page-modal .legal-page-content--wrapper .legal-page-content ol {
+    margin-bottom: 10px !important;
+  }
+  .legal-page-modal .legal-page-content--wrapper .legal-page-content p li, .legal-page-modal .legal-page-content--wrapper .legal-page-content ul li, .legal-page-modal .legal-page-content--wrapper .legal-page-content ol li {
+    margin-bottom: 5px !important;
+  }
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content ul {
+  list-style: none;
+  padding-left: 15px !important;
+}
+@media screen and (max-width: 500px) {
+  .legal-page-modal .legal-page-content--wrapper .legal-page-content ul {
+    padding-left: 7px !important;
+  }
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content ul li {
+  margin-bottom: 5px !important;
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content ul li:before {
+  content: "•"; /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #3154C8; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 20px; /* Also needed for space (tweak if needed) */
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content ol {
+  list-style-type: none;
+  counter-reset: item;
+  padding-inline-start: 20px !important;
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content ol > li {
+  display: table;
+  counter-increment: item;
+  margin-bottom: 7px;
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content ol > li:before {
+  content: counters(item, ".") ". ";
+  display: table-cell;
+  padding-right: 7px;
+  font-weight: bold;
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content li ol > li {
+  margin: 0;
+}
+.legal-page-modal .legal-page-content--wrapper .legal-page-content li ol > li:before {
+  content: counters(item, ".") ". ";
+}
+
+/*# sourceMappingURL=modal.css.map*/
